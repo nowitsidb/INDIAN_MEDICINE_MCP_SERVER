@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore any Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore sensitive or generated files (e.g., medicines.json if generated)
+medicines.json
+
+# Ignore system files (macOS specific)
+.DS_Store
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
