@@ -101,7 +101,7 @@ python medicines_server.py
 
 ## 📘 Usage
 
-The server exposes multiple API endpoints through MCP (Model-Controller-Process) architecture. You can interact with the server using any MCP client.
+The server exposes multiple API endpoints through MCP (Model Context Protocol) architecture. You can interact with the server using any MCP client.
 
 Basic example:
 
