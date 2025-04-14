@@ -1,4 +1,4 @@
-# INDIAN Medicine MCP Server
+# INDIAN MEDICINES (MCP SERVER)
 
 <div align="center">
   
