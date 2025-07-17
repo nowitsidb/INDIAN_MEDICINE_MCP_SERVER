@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nowitsidb-indian-medicine-mcp-server-badge.png)](https://mseep.ai/app/nowitsidb-indian-medicine-mcp-server)
+
 # INDIAN MEDICINES (MCP SERVER)
 
 <div align="center">
